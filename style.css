@@ -1,0 +1,47 @@
+main {
+    width: 80%;
+    margin-left: 10%;
+}
+
+main img {
+    width: 100%;
+    border-radius: 5px;
+}
+
+main p {
+    text-align: justify;
+    margin-top: 1rem;
+    font-size: 1.3rem;
+    color: #131316;
+}
+
+main h1 {
+    text-align: center;
+    margin-top: 1rem;
+    color: #6b6b6e;
+}
+
+#services {
+    background: rgb(22, 22, 22);
+    margin: 2rem 0 2rem;
+    padding: 2rem 0 2rem;
+}
+
+#services h1 {
+    text-align: center;
+    margin-top: 1rem;
+    color: white;
+}
+
+#width {
+    margin: 3rem 5% 0;
+}
+
+footer {
+    height: 6rem;
+    background: #6b6b6e;
+}
+
+footer p {
+    text-align: center;
+}
