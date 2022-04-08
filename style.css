@@ -38,10 +38,13 @@ main h1 {
 }
 
 footer {
+    padding-top: 2rem;
     height: 6rem;
     background: #6b6b6e;
 }
 
 footer p {
     text-align: center;
+    color: white;
+    font-size: large;
 }
